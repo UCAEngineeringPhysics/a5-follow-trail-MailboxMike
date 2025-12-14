@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/1_wnOXgh)
 # Trail Follower
 
 Implement a more precised distance control to follow the trapezoidal trail in the lab.
@@ -19,6 +20,7 @@ You can use following definitions in your equation:
 - Encoder's counts per revolution: $CPR$
 
 > Write down linear motion equation below. 👇
+C = d/(2pir) * _i_*_CPR_
 
 > [!TIP]
 > If other quantities than the listed ones are needed.
@@ -46,6 +48,8 @@ You can use following definitions in your equation:
 
 ### 2. (15%) Wiring
 Please upload your wiring diagram below to illustrate how the motors are controlled and monitored. 👇
+
+[Scanned_20251214-0010.pdf](https://github.com/user-attachments/files/24147912/Scanned_20251214-0010.pdf)
 
 ![wiring](images/wiring_diagram.jpg)
 
