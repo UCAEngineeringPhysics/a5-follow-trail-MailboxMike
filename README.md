@@ -49,6 +49,8 @@ You can use following definitions in your equation:
 ### 2. (15%) Wiring
 Please upload your wiring diagram below to illustrate how the motors are controlled and monitored. 👇
 
+[Scanned_20251214-0010.pdf](https://github.com/user-attachments/files/24147912/Scanned_20251214-0010.pdf)
+
 ![wiring](images/wiring_diagram.jpg)
 
 ### 3. (70%) Coding
